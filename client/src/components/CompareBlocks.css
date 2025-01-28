@@ -1,0 +1,88 @@
+.parent-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column; 
+    width: 100%; 
+    position: relative;
+    margin-top: 30px;
+    margin-bottom: 365px;
+}
+
+  .input-container2 {
+    display: flex;
+    gap: 1rem;
+    justify-content: center; 
+    width: 80%; 
+    margin-bottom: 1rem; 
+}
+
+.input-container2 input {
+    flex: 1; 
+    padding: 10px;
+    border-radius: 5px;
+    border: 2px solid #2c7efb;
+    background-color: #1e293b;
+    color: #ffffff;
+    font-size: 16px;
+    box-sizing: border-box;
+}
+
+.input-container2 input:focus {
+    outline: none;
+    border: 2px solid #0855c9;
+    background-color: #0f172a;
+    box-shadow: 0 0 10px #0855c9;
+}
+
+.compare-blocks-title {
+  text-align: center;
+}
+
+
+button {
+  background-color:#1a2454; 
+  color: #ffffff; 
+  border: none; 
+  border-radius: 5px;
+  padding: 10px 20px; 
+  font-size: 16px; 
+  font-weight: bold; 
+  cursor: pointer; 
+  transition: all 0.3s ease; 
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); 
+  position: relative;
+}
+
+button:hover {
+  background-color: #0855c9; 
+  transform: translateY(-2px);
+  box-shadow: 0 6px 8px rgba(0, 0, 0, 0.2); 
+}
+
+button:active {
+  background-color: #063e9b;
+  transform: translateY(0); 
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); 
+}
+
+.table-container2 {
+  width: 85%;
+  border-collapse: collapse; 
+  margin-top: 20px;
+  background-color: #1a2454;
+  border-radius: 8px;
+  overflow: hidden; /* zaobljeni kutovi */
+  position: relative;
+  top: 70px;
+}
+
+
+.table-container2 th, td {
+  border: none; /* uklanja sve linije unutar tablice */
+  padding: 10px;
+  text-align: left;
+}
+
+
+

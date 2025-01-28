@@ -1,0 +1,25 @@
+
+.container {
+    display: flex;             
+    justify-content: space-between; 
+    align-items: flex-start;   
+    margin-top: 70px;           
+    margin-bottom: 130px;        
+}
+
+.block-time-container,
+.block-fee-container {
+    width: 48%;                
+    padding: 10px;              
+    border-radius: 8px;         
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between; 
+    height: 330px;             
+    margin-top: 10px;           
+}
+
+.text {
+    font-size: 20px;
+    text-align: center;
+}

@@ -1,0 +1,51 @@
+.navbar {
+  display: flex;
+  justify-content: space-between; 
+  align-items: center;
+  padding: 10px 20px;
+  background-color: #1a2454;
+  color: #fff;
+}
+  
+.navbar .left-container {
+  display: flex;
+  align-items: center;
+  position: relative;
+  left: 40px;
+}
+  
+.navbar .right-container {
+  display: flex;
+  align-items: center;
+  color: white;
+  margin-right: 65px;
+  position: relative;
+}
+  
+.navbar .logo {
+  width: 40px; 
+  height: 40px;
+  margin-right: 10px;
+}
+  
+.navbar .title {
+  margin: 0;
+  font-size: 24px;
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+  
+ 
+
+a {
+  color: white;
+  text-decoration: none;
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  font-size: 18px;
+  margin: 5px;
+}
+
+a:hover {
+  font-weight: bolder;
+  text-decoration:underline;
+}
+  
