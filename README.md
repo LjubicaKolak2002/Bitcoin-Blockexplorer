@@ -1,4 +1,6 @@
-# Bitcoin-Blockexplorer 
+# Bitcoin-Blockexplorer
+
+Application for viewing basic data from a blockchain network.
 
 ## **Table of Contents**
 - [Overview](#overview)
