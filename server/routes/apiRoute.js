@@ -2,13 +2,20 @@ const express = require("express");
 const router = express.Router();
 const bodyParser = require("body-parser")
 const cors = require("cors");
+const dotenv = require("dotenv");
+dotenv.config();
+
+const USER = process.env.RPC_USER;
+const PASS = process.env.RPC_PASSWORD;
+const HOST = process.env.RPC_HOST;
+const PORT = process.env.RPC_PORT;
 
 const Client = require('bitcoin-core');
 const client = new Client({ 
-    host: 'blockchain.oss.unist.hr', 
-    username: 'student', 
-    password: 'n24PaIR7EwPyeMi1GB6cx4bVt1R24fZ8xl2jd8kr2REi2i8Tn', 
-    port: 50004
+    host: HOST,
+    username: USER,
+    password: PASS,
+    port: PORT
   });
 
 const app = express();
