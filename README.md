@@ -10,7 +10,7 @@ Application for viewing and searching basic data from a blockchain network.
 
 ## **Overview**
 Blockchain Data Viewer is a web application that offers a simple and clear interface for viewing basic blockchain data such as blocks and transactions. It allows users to search for blocks by hash or height and transactions by ID, providing real-time insights into the blockchain network.
-![Homepage]<img width="940" height="326" alt="image" src="https://github.com/user-attachments/assets/03ec7c2b-f92e-49b1-b7aa-5a0e0382bb00" />
+<img width="740" height="320" alt="image" src="https://github.com/user-attachments/assets/03ec7c2b-f92e-49b1-b7aa-5a0e0382bb00" />
 
 
 ## **Key Features**
