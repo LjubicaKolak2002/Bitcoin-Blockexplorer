@@ -27,6 +27,9 @@ Homepage View
 
 
 - <strong>Compare Blocks</strong> – Compare two blocks and see detailed differences.
+  
+  <img width="791" height="415" alt="image" src="https://github.com/user-attachments/assets/039e5596-e627-497d-8908-2a10e13939f2" />
+
 - <strong>Bitcoin Price Graph</strong> – See the 24-hour Bitcoin price trend on the homepage.
 
 ## **Detailed Information**
