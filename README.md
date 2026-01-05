@@ -28,12 +28,12 @@ Homepage View
 1. <strong>Block Details</strong>:
 For each block, the following information is displayed: hash, height, size, received time, merkle root, total fee, reward, transactions included in the block...
 
-  <img width="793" height="374" alt="image" src="https://github.com/user-attachments/assets/553af1a7-7c32-4e91-a527-f70e92e42d2d" />
+  <img width="793" height="474" alt="image" src="https://github.com/user-attachments/assets/553af1a7-7c32-4e91-a527-f70e92e42d2d" />
 
 3. <strong>Transaction Details</strong>:
 For each transaction, the following details are shown: size, confirmations, virtual size, weight, fee, date/time, included in block, inputs and outputs...
 
-  <img width="794" height="326" alt="image" src="https://github.com/user-attachments/assets/541ae906-8d2b-4141-8689-97ec832e4a47" />
+  <img width="794" height="426" alt="image" src="https://github.com/user-attachments/assets/541ae906-8d2b-4141-8689-97ec832e4a47" />
 
 5. <strong>Statistics for the last blocks</strong>:
 A graph showing the time intervals between consecutive blocks in seconds.
