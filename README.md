@@ -24,8 +24,8 @@ Figure 1: Homepage view
 - <strong>Mempool Transactions</strong> – See all transactions waiting to be included in a block.
 - <strong>Transaction Fee Ranking</strong> – View the top 10 transactions with the highest fees in the mempool.
 - <strong>Blockchain Statistics</strong> – View graphs displaying data on recent blocks, including time intervals and fee statistics.
-<img width="498" height="243" alt="image" src="https://github.com/user-attachments/assets/7ef4c2c7-f551-49dc-ac54-bd612d58e29a" />
-<img width="490" height="243" alt="image" src="https://github.com/user-attachments/assets/611621f9-ff53-496f-aad6-7e15afc75487" />
+  <img width="498" height="343" alt="image" src="https://github.com/user-attachments/assets/7ef4c2c7-f551-49dc-ac54-bd612d58e29a" />
+  <img width="490" height="343" alt="image" src="https://github.com/user-attachments/assets/611621f9-ff53-496f-aad6-7e15afc75487" />
 
 
 - <strong>Compare Blocks</strong> – Compare two blocks and see detailed differences.
