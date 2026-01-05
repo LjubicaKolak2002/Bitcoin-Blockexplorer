@@ -10,6 +10,7 @@ Application for viewing and searching basic data from a blockchain network.
 
 ## **Overview**
 Blockchain Data Viewer is a web application that offers a simple and clear interface for viewing basic blockchain data such as blocks and transactions. It allows users to search for blocks by hash or height and transactions by ID, providing real-time insights into the blockchain network.
+
 <img width="940" height="326" alt="image" src="https://github.com/user-attachments/assets/771f8a9a-5c40-4543-8355-fa154dced5e5" />
 Homepage View
 
@@ -20,8 +21,8 @@ Homepage View
 - <strong>Mempool Transactions</strong> – See all transactions waiting to be included in a block.
 - <strong>Transaction Fee Ranking</strong> – View the top 10 transactions with the highest fees in the mempool.
 - <strong>Blockchain Statistics</strong> – View graphs displaying data on recent blocks, including time intervals and fee statistics.
-  <img width="498" height="293" alt="image" src="https://github.com/user-attachments/assets/fd942de2-ec3b-4f30-9bd7-54efd23a8713" />
-  <img width="490" height="290" alt="image" src="https://github.com/user-attachments/assets/53d9a6e2-1f04-4b3c-8275-701c324349e1" />
+  <img width="498" height="243" alt="image" src="https://github.com/user-attachments/assets/fd942de2-ec3b-4f30-9bd7-54efd23a8713" />
+  <img width="490" height="240" alt="image" src="https://github.com/user-attachments/assets/53d9a6e2-1f04-4b3c-8275-701c324349e1" />
 
 
 - <strong>Compare Blocks</strong> – Compare two blocks and see detailed differences.
