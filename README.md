@@ -27,11 +27,11 @@ Homepage View
 ## **Detailed Information**
 1. <strong>Block Details</strong>:
 For each block, the following information is displayed: hash, height, size, received time, merkle root, total fee, reward, transactions included in the block...
-  <img width="693" height="374" alt="image" src="https://github.com/user-attachments/assets/553af1a7-7c32-4e91-a527-f70e92e42d2d" />
+            <img width="693" height="374" alt="image" src="https://github.com/user-attachments/assets/553af1a7-7c32-4e91-a527-f70e92e42d2d" />
 
 3. <strong>Transaction Details</strong>:
 For each transaction, the following details are shown: size, confirmations, virtual size, weight, fee, date/time, included in block, inputs and outputs...
-  <img width="694" height="326" alt="image" src="https://github.com/user-attachments/assets/541ae906-8d2b-4141-8689-97ec832e4a47" />
+            <img width="694" height="326" alt="image" src="https://github.com/user-attachments/assets/541ae906-8d2b-4141-8689-97ec832e4a47" />
 
 4. <strong>Statistics for the last blocks</strong>:
 A graph showing the time intervals between consecutive blocks in seconds.
@@ -42,7 +42,7 @@ A graph showing the total and average fee for the last 10 blocks.
 5. <strong>Top 10 mempool transactions</strong>:
 The application provides a view of the top 10 transactions with the highest fees in the mempool, showing the transactions that will likely be processed first.
 
-  <img width="936" height="454" alt="image" src="https://github.com/user-attachments/assets/65befba4-ada8-44a0-a6e9-63c8f0c6eef2" />
+          <img width="636" height="354" alt="image" src="https://github.com/user-attachments/assets/65befba4-ada8-44a0-a6e9-63c8f0c6eef2" />
 
 
 ## **Technologies**
