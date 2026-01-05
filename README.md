@@ -40,7 +40,7 @@ A graph showing the time intervals between consecutive blocks in seconds.
 A graph showing the total and average fee for the last 10 blocks.
 
     <img width="400" height="263" alt="image" src="https://github.com/user-attachments/assets/fd942de2-ec3b-4f30-9bd7-54efd23a8713" />
-    <img width="440" height="283" alt="image" src="https://github.com/user-attachments/assets/53d9a6e2-1f04-4b3c-8275-701c324349e1" />
+    <img width="400" height="283" alt="image" src="https://github.com/user-attachments/assets/53d9a6e2-1f04-4b3c-8275-701c324349e1" />
   
 5. <strong>Top 10 mempool transactions</strong>:
 The application provides a view of the top 10 transactions with the highest fees in the mempool, showing the transactions that will likely be processed first.
